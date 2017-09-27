@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<data>
+<object x="144" y="282" r="0">target1</object>
+<object x="241" y="177" r="0">balloon1</object>
+<object x="552" y="186" r="0">balloon2</object>
+<object x="618" y="434" r="0">balloon3</object>
+<object x="-64" y="128" r="0">bomb1</object>
+<object x="-64" y="256" r="0">bomb2</object>
+<object x="-64" y="384" r="0">bomb3</object>
+<object x="-64" y="512" r="0">bomb4</object>
+<object x="-256" y="352" r="0">floor1</object>
+<object x="-256" y="416" r="0">floor2</object>
+<object x="-256" y="480" r="0">floor3</object>
+<object x="-256" y="544" r="0">floor4</object>
+<object x="115" y="414" r="315">floor5</object>
+<object x="230" y="443" r="45">floor6</object>
+<object x="353" y="479" r="135">floor7</object>
+<object x="475" y="516" r="45">floor8</object>
+<object x="896" y="288" r="0">floor9</object>
+<object x="896" y="352" r="0">floor10</object>
+<object x="896" y="416" r="0">floor11</object>
+<object x="896" y="480" r="0">floor12</object>
+<object x="-256" y="96" r="0">rotating1</object>
+<object x="-256" y="160" r="0">rotating2</object>
+<object x="-256" y="224" r="0">rotating3</object>
+<object x="-256" y="288" r="0">rotating4</object>
+</data>
+</root>
+
